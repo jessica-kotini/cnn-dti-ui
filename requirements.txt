@@ -1,0 +1,14 @@
+gradio
+DeepPurpose
+rdkit-pypi
+wget
+git+https://github.com/bp-kelley/descriptastorus
+pandas-flavor
+numpy
+pandas
+torch
+scikit-learn
+scipy
+matplotlib
+jupyter
+pyarrow
